@@ -1,0 +1,131 @@
+@media screen and (max-width: 480px) {
+    .header_menu, .first_screen__right, .box_1_cell_1, .second_screen_box_4_cell_2, .second_screen_box_5_cell_2,
+    .box_7_cell_4_img {
+        display: none;
+    }
+
+    .wrapper {
+        padding: 0 20px;
+    }
+
+    .first_screen__left h1 {
+        font-size: 60px;
+        line-height: 70px;
+    }
+
+    .first_screen_button {
+        position: initial;
+        margin: 50px auto 0;
+    }
+
+    .first_screen {
+        padding-bottom: 50px;
+        background: teal;
+        height: 100vh;
+    }
+
+    .first_screen__left p {
+        color: #FFFFFF;
+    }
+
+
+    .button_mobile {
+        display: flex;
+    }
+
+    .box_2_cell_1 h2 {
+        font-size: 60px;
+        line-height: 70px;
+    }
+
+    .box_1_cell_2 h2 {
+        font-size: 60px;
+        line-height: 70px;
+    }
+
+    .box_2_cell {
+        display: initial;
+
+    }
+
+    .box_2_cell_2, .box_2_cell_3, .box_2_cell_4, .second_screen_box_2_buttom, .box_2_cell_1 {
+        display: flex;
+
+    }
+
+    .box_2_cell_2_1, .box_2_cell_3_1, .box_2_cell_4_1, .box_2_cell_2_buttom, .box_2_cell_1 h2,
+    .second_screen_box_3_cell_1, .second_screen_box_4_cell_1 {
+        margin: auto;
+    }
+
+    .second_screen_box_3 {
+        margin: 100px -20px;
+        height: auto;
+        padding-left: 50px;
+    }
+
+    .second_screen_box_3_cell_2, .second_screen_box_4, .second_screen_box_6_cell  {
+        display: initial;
+    }
+
+    .second_screen_box_4_cell_1 {
+        background: teal;
+        width: 100%;
+        padding: 55px;
+    }
+
+    .second_screen_box_4_cell_1 p {
+        font-size: 40px;
+        line-height: 50px;
+        color: #FFFFFF;
+
+    }
+
+    .second_screen_box_5_cell_1_1 {
+        margin: 0 -141px;
+        padding-left: 30px;
+    }
+
+    .second_screen_box_5_cell_1_1 p {
+        width: 400px;
+    }
+
+    .second_screen_box_5_cell_1_button {
+        padding-left: 40px;
+    }
+
+    .second_screen_box_6_cell {
+        margin: 0 -145px;
+        width: 100%;
+
+    }
+
+    .second_screen_box_6_cell_1 {
+        margin: -15px;
+    }
+
+    .screen_box_6_cell_button {
+        padding: 80px 160px;
+    }
+
+    .second_screen_box_7 {
+        margin: 0 -141px;
+        height: auto;
+        width: 82vh;
+    }
+
+    .second_screen_box_7_cell_1 {
+        padding-left: 30px;
+    }
+
+
+    .second_screen_box_7_cell_2 {
+        display: block;
+    }
+
+    .box_7_cell_2_1, .box_7_cell_2_2, .box_7_cell_2_3, .box_7_cell_2_4, .box_7_cell_2_5, .second_screen_box_7_cell_3,
+    .box_7_cell_4_1 {
+        padding-left: 72px;
+    }
+
+}
